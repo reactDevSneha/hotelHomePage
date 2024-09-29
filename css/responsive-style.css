@@ -1,0 +1,20 @@
+@media (max-width:767px) {
+    html {
+        font-size: 55%;
+    }
+    .header_wrapper {
+        border-radius: unset;
+    }
+
+    
+}
+@media (max-width:576px) {
+    html {
+        font-size: 50%;
+    }
+    .feature-box {
+        height: 100%;
+    }
+
+    
+}
